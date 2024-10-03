@@ -1,1 +1,0 @@
-            print("Teleport " + type);
