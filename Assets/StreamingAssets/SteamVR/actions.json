@@ -50,7 +50,7 @@
       "type": "boolean"
     },
     {
-      "name": "/actions/default/in/Touch/TouchpadTouugh",
+      "name": "/actions/default/in/TouchpadTouch",
       "type": "vector2"
     },
     {

@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using Valve.VR;
 
-public class ViveInput : MonoBehaviour
+public class ViveInput: MonoBehaviour
 {
     //[SteamVR_DefaultAction("Squeeze")]
     public SteamVR_Action_Single squeezeAction;
