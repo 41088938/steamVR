@@ -7,7 +7,7 @@
 //     the code is regenerated.
 // </auto-generated>
 //------------------------------------------------------------------------------
-
+/*
 namespace Valve.VR
 {
     using System;
@@ -26,3 +26,4 @@ namespace Valve.VR
         }
     }
 }
+*/
